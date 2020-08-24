@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning almost eveything (really)
 - 💬 Ask me about -> berkaydiyebiri@gmail.com
 
+![Key Of Success](https://i.ibb.co/k0jM0y1/sohard.jpg)
+
 [<img align="left" alt="berkayismus.site" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 <details>
