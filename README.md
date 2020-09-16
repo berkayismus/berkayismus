@@ -2,11 +2,10 @@
 
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning almost eveything (really)
-- 💬 Ask me about -> berkaydiyebiri@gmail.com
+- 💬 I'm not talking about my goals, cause [Intention Behavior Gap](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6125069/#:~:text=Of%20interest%20here,%20is%20the,the%20variation%20in%20health%20behavior.)
+- 💬 Contact me -> berkaydiyebiri@gmail.com
 
 ![Key Of Success](https://i.ibb.co/k0jM0y1/sohard.jpg)
-
-[<img align="left" alt="berkayismus.site" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 <details>
   <summary>:zap: Github Stats</summary>
@@ -15,10 +14,7 @@
 
 </details>
 
-
 [website]: https://berkayismus.site
-[twitter]: https://twitter.com/berkayismus
-[youtube]: https://youtube.com/codeSTACKr
 
 <!--
 **berkayismus/berkayismus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
