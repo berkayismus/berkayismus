@@ -1,7 +1,7 @@
 ### Hi there, I'm Berkay 👋
 
 - 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning almost eveything (really)
+- 🌱 I’m trying to learning almost eveything (really)
 - 💬 I'm not talking about my goals, cause [Intention Behavior Gap](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6125069/#:~:text=Of%20interest%20here,%20is%20the,the%20variation%20in%20health%20behavior.)
 - 💬 Contact me -> berkaydiyebiri@gmail.com
 
