@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Berkay</h1>
 <h3 align="center">A passionate mobile developer from Turkey</h3>
 
-- 🔭 I’m currently working on **AI Based Training**
+- 🔭 I’m currently working on **RetailMaster**
 
-- 💬 Ask me about **Flutter,Dart,Android**
+- 🌱 I’m currently learning **iOS,Swift,SwiftUI**
+
+- 👨‍💻 All of my projects are available at [https://docs.google.com/document/d/1JBIQZxvDBDSQiaf7_IeI3PaakxYbdeVEIlYG9Iewtm4/edit](https://docs.google.com/document/d/1JBIQZxvDBDSQiaf7_IeI3PaakxYbdeVEIlYG9Iewtm4/edit)
+
+- 💬 Ask me about **Flutter,iOS**
 
 - 📫 How to reach me **berkayycayli@gmail.com**
 
@@ -12,6 +16,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=berkayismus&show_icons=true&locale=en&layout=compact" alt="berkayismus" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=berkayismus&show_icons=true&locale=en&layout=compact" alt="berkayismus" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berkayismus&show_icons=true&locale=en" alt="berkayismus" /></p>
