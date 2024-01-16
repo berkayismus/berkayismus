@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Berkay</h1>
 <h3 align="center">A passionate mobile developer from Turkey</h3>
 
-- 🔭 I’m currently working on **RetailMaster**
+- 🔭 I’ve been working on **RetailMaster**
 
-- 🌱 I’m currently learning **iOS,Swift,SwiftUI**
+- 🌱 I learn **iOS,Swift,SwiftUI**
 
 - 👨‍💻 All of my projects are available at [https://docs.google.com/document/d/1JBIQZxvDBDSQiaf7_IeI3PaakxYbdeVEIlYG9Iewtm4/edit](https://docs.google.com/document/d/1JBIQZxvDBDSQiaf7_IeI3PaakxYbdeVEIlYG9Iewtm4/edit)
 
